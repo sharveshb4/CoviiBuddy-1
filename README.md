@@ -79,7 +79,7 @@ Project Structure
 
 1. Clone the repo
   ```
-  $ git clone https://github.com/sinking123/Covid-Tracker.git
+  $ git clone https://github.com/Ghost1805/CoviiBuddy.git
   $ cd flask-boilerplate
   ```
 
