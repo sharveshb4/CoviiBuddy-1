@@ -65,7 +65,7 @@ Project Structure
 
 1. Clone the repo
   ```
-  $ git clone https://github.com/sinking123/Covi-Buddy.git
+  $ git clone https://github.com/Ghost1805/CoviiBuddy.git
   $ cd Covi-Buddy
   ```
 
