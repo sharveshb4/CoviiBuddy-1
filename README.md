@@ -66,7 +66,7 @@ Project Structure
 1. Clone the repo
   ```
   $ git clone https://github.com/Ghost1805/CoviiBuddy.git
-  $ cd Covi-Buddy
+  $ cd CoviiBuddy
   ```
 
 2. Initialize and activate a virtualenv:
