@@ -17,9 +17,6 @@ The world is now in the midst of a dire pandemic and everyone could use a friend
 ### Covid Mask Detector
 ![Covid_Mask_Detector](https://github.com/sinking8/Covi-Buddy/blob/main/screenshots/face_mask.jpeg)
 
-### ChatBot
-![Covid_Mask_Detector](https://github.com/sinking8/Covi-Buddy/blob/main/screenshots/chatbot.png)
-
 ### Covid Tracker
 ![Covid_Mask_Detector](https://github.com/sinking8/Covi-Buddy/blob/main/screenshots/covid_tracker.png)
 
