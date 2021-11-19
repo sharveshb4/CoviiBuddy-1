@@ -15,13 +15,13 @@ The world is now in the midst of a dire pandemic and everyone could use a friend
 ## Screenshots
 
 ### Covid Mask Detector
-![Covid_Mask_Detector](https://github.com/Ghost1805/CoviiBuddy/blob/main/screenshots/face_mask.jpeg)
+![Covid_Mask_Detector](https://github.com/NeerajShyamSundar/CoviiBuddy/blob/main/screenshots/face_mask.jpeg)
 
 ### Covid Tracker
-![Covid_Mask_Detector](https://github.com/Ghost1805/CoviiBuddy/blob/main/screenshots/covid_tracker.png)
+![Covid_Mask_Detector](https://github.com/NeerajShyamSundar/CoviiBuddy/blob/main/screenshots/covid_tracker.png)
 
 ### Covid Detector Quiz
-![Covid_Mask_Detector](https://github.com/Ghost1805/CoviiBuddy/blob/main/screenshots/quiz.png)
+![Covid_Mask_Detector](https://github.com/NeerajShyamSundar/CoviiBuddy/blob/main/screenshots/quiz.png)
 
 Project Structure
 --------
@@ -65,7 +65,7 @@ Project Structure
 
 1. Clone the repo
   ```
-  $ git clone https://github.com/Ghost1805/CoviiBuddy.git
+  $ git clone https://github.com/NeerajShyamSundar/CoviiBuddy.git
   $ cd CoviiBuddy
   ```
 
